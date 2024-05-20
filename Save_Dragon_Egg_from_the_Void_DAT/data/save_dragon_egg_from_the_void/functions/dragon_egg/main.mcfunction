@@ -14,3 +14,5 @@ execute unless predicate save_dragon_egg_from_the_void:below_y0 run return 0
 function save_dragon_egg_from_the_void:dragon_egg/animate
 execute in minecraft:the_end positioned 0 ~ 0 run function save_dragon_egg_from_the_void:dragon_egg/teleport
 execute at @s run function save_dragon_egg_from_the_void:dragon_egg/animate
+
+execute as @a[tag=save_dragon_egg_from_the_void.notify] at @s run function save_dragon_egg_from_the_void:notification/notify
