@@ -1,0 +1,40 @@
+{
+    "pack": {
+        "pack_format": 26,
+        "supported_formats": [26, 41],
+        "version": "1.0.0",
+        "license": "MIT",
+        "source": "https://github.com/RafalBerezin/Save_Dragon_Egg_from_the_Void",
+        "description": [
+            {
+                "text": "Save the ",
+                "color": "white"
+            },
+            {
+                "text": "Dragon Egg",
+                "color": "#ffb67a"
+            },
+            {
+                "text": " from falling into the ",
+                "color": "white"
+            },
+            {
+                "text": "Void",
+                "color": "#edb97e"
+            },
+            {
+                "text": ".",
+                "color": "white"
+            }
+        ],
+        "authors": [
+            {
+                "name": "RafalBerezin",
+                "contact": {
+                    "discord": "rafalberezin",
+                    "github": "https://github.com/RafalBerezin"
+                }
+            }
+        ]
+    }
+}
