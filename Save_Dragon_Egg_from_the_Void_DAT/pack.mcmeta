@@ -1,7 +1,7 @@
 {
     "pack": {
-        "pack_format": 26,
-        "supported_formats": [26, 41],
+        "pack_format": 15,
+        "supported_formats": [15, 41],
         "version": "1.0.0",
         "license": "MIT",
         "source": "https://github.com/RafalBerezin/Save_Dragon_Egg_from_the_Void",
