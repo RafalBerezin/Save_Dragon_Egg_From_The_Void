@@ -9,7 +9,7 @@
 # (i assume people will not make custom dimensions with void above that)
 execute if block ~ ~ ~ minecraft:air run return 0
 execute unless block ~ ~ ~ minecraft:air run return 0
-execute unless predicate save_dragon_egg_from_the_void:below_y0
+execute unless predicate save_dragon_egg_from_the_void:below_y0 run return 0
 
 function save_dragon_egg_from_the_void:dragon_egg/animate
 execute in minecraft:the_end positioned 0 ~ 0 run function save_dragon_egg_from_the_void:dragon_egg/teleport
