@@ -2,6 +2,12 @@
 #
 # @internal
 
+# Honestly i don't know why, but when the falling_block entity
+# crosses over the edge of the world (goes into the void) while having
+# the value of nbt tag 'Time' greater or equal to 100
+# it drops as an item
+data modify entity @s Time set value 0
+
 # if/unless block always fails in the void,
 # so if any of those succed the egg is not in the void
 # but the same happens above build limit,
