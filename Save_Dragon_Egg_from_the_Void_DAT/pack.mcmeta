@@ -4,6 +4,7 @@
         "supported_formats": [15, 41],
         "version": "1.0.0",
         "license": "MIT",
+        "homepage": "https://modrinth.com/datapack/save-dragon-egg-from-the-void",
         "source": "https://github.com/RafalBerezin/Save_Dragon_Egg_from_the_Void",
         "description": [
             {
