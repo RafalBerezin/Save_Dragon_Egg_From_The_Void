@@ -3,7 +3,8 @@
 ![GitHub License](https://img.shields.io/github/license/RafalBerezin/Save_Dragon_Egg_from_the_Void?style=for-the-badge&logo=github)
 ![Modrinth Downloads](https://img.shields.io/modrinth/dt/xGPFxt1L?style=for-the-badge&logo=modrinth)
 ![Modrinth Version](https://img.shields.io/modrinth/v/xGPFxt1L?style=for-the-badge&logo=modrinth)
-![Modrinth Game Versions](https://img.shields.io/modrinth/game-versions/xGPFxt1L?style=for-the-badge&logo=modrinth)
+![Modrinth Game Versions](https://img.shields.io/badge/Game_Versions-1.20_--_1.20.6-blue?style=for-the-badge&logo=modrinth)
+<!-- Static badge untill the dynamic one displays the version range instead of listing every version -->
 
 [![Download](https://img.shields.io/badge/Download-gray?style=for-the-badge&logo=modrinth)](https://modrinth.com/datapack/pocket-dimension/versions)
 [![Ko-Fi](https://img.shields.io/badge/Support%20me%20on%20Ko--fi-F16061?style=for-the-badge&logo=ko-fi&logoColor=white)](https://ko-fi.com/rafalberezin)
